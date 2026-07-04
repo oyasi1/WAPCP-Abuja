@@ -283,7 +283,7 @@ export const teamMembers = [
     name: 'Dr. Abubakar Danraka',
     role: 'Immediate Past Zonal Coordinator, WAPCP FCT Zone',
     slug: 'abubakar-danraka',
-    imageUrl: '/images/drabubakarDanraka.jpg',
+    imageUrl: '/images/drAbubakarDanraka.jpg',
     bio: 'Dr. Abubakar Danraka is a distinguished pharmaceutical scientist and academic. He served as the immediate past Zonal Coordinator and has been a mentor to countless pharmacists in the FCT. Mr Danraka is a passionate Nigerian Pharmacist wth specialization in Drug production and Pharmaceutical Quality Systems, spanning over two decades of experience in Hospital and Administrative Pharmacy Practice and Public Health. He is also a Health Sociologist with interest in Social Epidemiology and Social Pharmacy Research with over 50 peer reviewed publications and a score of scientific seminars & public presentations as contributions to knowledge and practice to his credit. Dr. Danrakawas the pioneer Editor of AJPHS.   ',
     email: 'abubakar.danraka@wapcp.org',
     phone: '+234 803 456 7893',
