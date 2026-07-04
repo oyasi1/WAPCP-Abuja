@@ -186,7 +186,7 @@ export default function JournalsClient() {
                           View Journal
                           <FaChevronRight className="w-3 h-3 group-hover:translate-x-1 transition-transform" />
                         </span>
-                        // app/journals/JournalsClient.jsx - Update the PDF button
+                        
 <button 
   onClick={(e) => {
     e.preventDefault();
